@@ -2,7 +2,7 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,4&height=180&section=header&text=Jasmin%20Machuca&fontSize=42&fontAlignY=38&animation=fadeIn&fontColor=ffffff" width="100%" alt="Header" />
   
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=3000&pause=1000&color=38BDF8&center=true&vCenter=true&width=650&lines=Cloud+%26+Data+Platform+Leader;Databricks+%26+Unity+Catalog+Specialist;IaC+%26+MLOps+Automation;Optimizing+Enterprise+Lakehouse+Architectures" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=3000&pause=1000&color=38BDF8&center=true&vCenter=true&width=650&lines=Cloud+%26+Data+Platform+Leader;Databricks+%26+Unity+Catalog+Admin;IaC+%26+MLOps+Automation;Optimizing+Enterprise+Lakehouse+Architectures" alt="Typing SVG" />
   </a>
 
   <p align="center">
